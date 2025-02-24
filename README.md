@@ -17,3 +17,4 @@ O(N)
 O(N^2)
 
 ### video 
+https://youtu.be/BVIt4Pp622U
